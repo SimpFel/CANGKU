@@ -1,4 +1,4 @@
-# Linux Group 2024 面试试题解析 (NO.0 - NO.7)
+# Linux Group 2024 面试试题解析 
 
 题目出处：https://www.xiyoulinux.com/archive/interview-2024
 - 本题目只作为西邮 Linux 兴趣小组 2024 纳新面试的有限参考。
